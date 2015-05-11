@@ -13,5 +13,6 @@ bash ${ANTSPATH}antsAtroposN4.sh \
   -c 3 \
   -y 2 \
   -y 3 \
+  -w 0.25 \
   -o ${OUT_DIR}example
 
