@@ -11,5 +11,7 @@ bash ${ANTSPATH}antsAtroposN4.sh \
   -x ${DATA_DIR}/KKI2009-01-MPRAGE_slice150_mask.nii.gz \
   -p ${DATA_DIR}/priorWarped%d.nii.gz \
   -c 3 \
+  -y 2 \
+  -y 3 \
   -o ${OUT_DIR}example
 
